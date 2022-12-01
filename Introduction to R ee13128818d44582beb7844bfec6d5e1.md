@@ -1,7 +1,7 @@
 # Introduction to R
 
-사람: Do Won Kim, Hyowon Kim
-상태: KOSSDA TA
+Contributors: Do Won Kim, Hyowon Kim
+
 
 ### Note
 
