@@ -1,7 +1,6 @@
 # Introduction to R
 
-사람: 익명, 익명
-상태: KOSSDA TA
+Contributors: Do Won Kim, Hyowon Kim
 
 ### Note
 
@@ -71,7 +70,7 @@
         
     - **4-2. `Tidyverse - ggplot2`**
         
-        [`**Tidyverse - ggplot2**`](Introduction%20to%20R%20ee13128818d44582beb7844bfec6d5e1/Tidyverse%20-%20ggplot2%2086518e9e7c854e42b655e952119acb59.md)
+        [`Tidyverse - ggplot2`](Introduction%20to%20R%20ee13128818d44582beb7844bfec6d5e1/Tidyverse%20-%20ggplot2%2086518e9e7c854e42b655e952119acb59.md)
         
 
 ---
