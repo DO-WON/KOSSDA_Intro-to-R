@@ -469,7 +469,7 @@
         write_sav(mtcars, "mtcars.sav") # SPSS 파일로 내보내기
         read_sav("mtcars.sav") # SPSS 파일을 불러오기 
         
-        **# Stata**
+        # Stata
         write_dta(mtcars, "mtcars.dta") 
         read_dta("mtcars.dta")
         ```
@@ -620,7 +620,7 @@
             # subset() 함수를 사용할 수도 있습니다.
             subset(iris, select=c(Sepal.Length, Sepal.Width))
             
-            # 만약 특정 변수만을 보고 싶다면: 데이터프레임**$**변수
+            # 만약 특정 변수만을 보고 싶다면: 데이터프레임$변수
             iris$Species 
             ```
             
