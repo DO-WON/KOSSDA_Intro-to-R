@@ -62,7 +62,7 @@ Contributors: Do Won Kim, Hyowon Kim
 
 4. 데이터 시각화 **Visualizastion in R**
     
-    먼저 R에서 기본으로 제공하는 base 함수들로 시각화 연습을 해본 후, **`tidyverse`**의 `ggplot2()` 를 통해 시각화하는 연습을 해보겠습니다. 
+    먼저 R에서 기본으로 제공하는 base 함수들로 시각화 연습을 해본 후, `tidyverse`의 `ggplot2()` 를 통해 시각화하는 연습을 해보겠습니다. 
     
     - **4-1.  R base plot**
         
