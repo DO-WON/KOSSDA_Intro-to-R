@@ -818,7 +818,7 @@ Contributors: Do Won Kim, Hyowon Kim
 
 ---
 
-1. 데이터 시각화 **Visualizastion in R**
+4. 데이터 시각화 **Visualizastion in R**
     - 4-1. R 기본 그래프 ***R base plot***
         
         먼저 R에서 기본으로 제공하는 base 함수들로 시각화 연습을 해본 후, `tidyverse`의 `ggplot2()` 를 통해 시각화하는 연습을 해보겠습니다. 
@@ -1010,7 +1010,7 @@ Contributors: Do Won Kim, Hyowon Kim
 
 ---
 
-1. 나가며 **Further Tips**
+5. 나가며 **Further Tips**
     - 유용한 소스들 ***Useful open sources***
         
         [Welcome | R for Data Science](https://r4ds.had.co.nz/index.html)
