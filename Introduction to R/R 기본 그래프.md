@@ -22,7 +22,7 @@ plot(gapminder$lifeExp, gapminder$pop, col=gapminder$country, pch=19,
 		 main="Rcy and population")
 ```
 
-![Untitled](R 기본 그래프/Untitled 1.png)
+![Untitled](R%20기본%20그래프/Untitled 1.png)
 
 연속형 변수의 빈도 분포를 살펴보는 데에는 `hist()` 함수를 사용합니다. 기대수명 변수의 히스토그램을 그려봅시다. 
 
@@ -36,7 +36,7 @@ hist(gapminder$lifeExp, col="whitesmoke",
 abline(v=mean(gapminder$lifeExp), col="wheat4", lty=2, lwd=2) # add line
 ```
 
-![Untitled](R 기본 그래프/Untitled 2.png)
+![Untitled](R%20기본%20그래프/Untitled 2.png)
 
 다음은 범주형 변수의 분포를 살펴보기에 좋은 `barplot()` 입니다. 각 대륙에 해당하는 값들이 몇 번 등장하는지를 시각화해봅시다. 
 
@@ -52,7 +52,7 @@ barplot(table(gapminder$continent),
         main = "Barplot")
 ```
 
-![Untitled](R 기본 그래프/Untitled 3.png)
+![Untitled](R%20기본%20그래프/Untitled 3.png)
 
 마지막으로 범주형 변수 별로 연속형 변수의 분포를 살펴보기에 좋은 `boxplot()` 입니다. 각 대륙 별로 기대수명 분포를 시각화해봅시다. 
 
@@ -67,4 +67,4 @@ boxplot(lifeExp ~ continent , data = gapminder,
         ylab = "Life Expectancy")
 ```
 
-![Untitled](R 기본 그래프/Untitled 4.png)
+![Untitled](R%20기본%20그래프/Untitled 4.png)
