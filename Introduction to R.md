@@ -1,7 +1,6 @@
 # Introduction to R
 
-사람: 익명, 익명
-상태: KOSSDA TA
+Contributors: Do Won Kim, Hyowon Kim
 
 ### Note
 
@@ -12,15 +11,15 @@
 1. **Prerequisites** 
     - **1-1. Installing R RStudio**
         
-        [R 설치하기](Introduction to R/R 설치하기.md)
+        [R 설치하기](Introduction%20to%20R/R%20설치하기.md)
         
     - **1-2. Installing RStudio & R interface**
         
-        [R Studio 설치 및 R interface 소개](Introduction to R/R Studio 설치 및 R interface 소개.md)
+        [R Studio 설치 및 R interface 소개](Introduction%20to%20R/R%20Studio%20설치%20및%20R%20interface%20소개.md)
         
     - **1-3. Creating a Workspace**
         
-        [작업 공간(workspace) 만들기](Introduction to R/작업 공간(workspace) 만들기.md)
+        [작업 공간(workspace) 만들기](Introduction%20to%20R/작업%20공간(workspace)%20만들기.md)
         
 
 ---
@@ -28,19 +27,19 @@
 1. R 기본 문법 **Basic programming in R** 
     - **2-1. Communicating in R language**
         
-        [R 문법의 기초](Introduction to R/R 문법의 기초.md)
+        [R 문법의 기초](Introduction%20to%20R/R%20문법의%20기초.md)
         
     - **2-2. Data type**
         
-        [데이터 유형](Introduction to R/데이터 유형.md)
+        [데이터 유형](Introduction%20to%20R/데이터%20유형.md)
         
     - **2-3. Data structure**
         
-        [데이터 구조](Introduction to R/데이터 구조.md)
+        [데이터 구조](Introduction%20to%20R/데이터%20구조.md)
         
-    - **2-4. R 패키지와 라이브러리 R packages and libraries**
+    - **2-4. R packages and libraries**
         
-        [R 패키지와 라이브러리](Introduction to R/R 패키지와 라이브러리.md)
+        [R 패키지와 라이브러리](Introduction%20to%20R/R%20패키지와%20라이브러리.md)
         
 
 ---
@@ -48,15 +47,15 @@
 1. 데이터 다루기 **Data Management** 
     - **3-1. Loading build-in data**
         
-        [**내장데이터 불러오기**](Introduction to R/내장데이터 불러오기.md)
+        [**내장데이터 불러오기**](Introduction%20to%20R/내장데이터%20불러오기.md)
         
     - **3-2. Exporting and importing data**
         
-        [데이터 저장하기(내보내기), 불러오기](Introduction to R/데이터 저장하기(내보내기), 불러오기.md)
+        [데이터 저장하기(내보내기), 불러오기](Introduction%20to%20R/데이터%20저장하기(내보내기),%20불러오기.md)
         
     - **3-3. Data wrangling & pre-processing: Base functions and Tidyverse**
         
-        [데이터 전처리](Introduction to R/데이터 전처리.md)
+        [데이터 전처리](Introduction%20to%20R/데이터%20전처리.md)
         
 
 ---
