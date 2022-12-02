@@ -1,10 +1,5 @@
 # Introduction to R
-
-Contributors: Do Won Kim, Hyowon Kim
-
-### Note
-
-이 페이지는 KOSSDA 방법론 강좌 수강생들을 위한 R 기초 튜토리얼입니다. 
+ 
 
 ### Table of Contents
 
