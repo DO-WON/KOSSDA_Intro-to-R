@@ -24,7 +24,7 @@ Contributors: Do Won Kim, Hyowon Kim
 
 ---
 
-1. R 기본 문법 **Basic programming in R** 
+2. R 기본 문법 **Basic programming in R** 
     - **2-1. Communicating in R language**
         
         [R 문법의 기초](Introduction%20to%20R/R%20문법의%20기초.md)
@@ -44,7 +44,7 @@ Contributors: Do Won Kim, Hyowon Kim
 
 ---
 
-1. 데이터 다루기 **Data Management** 
+3. 데이터 다루기 **Data Management** 
     - **3-1. Loading build-in data**
         
         [**내장데이터 불러오기**](Introduction%20to%20R/내장데이터%20불러오기.md)
@@ -60,7 +60,7 @@ Contributors: Do Won Kim, Hyowon Kim
 
 ---
 
-1. 데이터 시각화 **Visualizastion in R**
+4. 데이터 시각화 **Visualizastion in R**
     
     먼저 R에서 기본으로 제공하는 base 함수들로 시각화 연습을 해본 후, **`tidyverse`**의 `ggplot2()` 를 통해 시각화하는 연습을 해보겠습니다. 
     
@@ -75,7 +75,7 @@ Contributors: Do Won Kim, Hyowon Kim
 
 ---
 
-1. 나가며 **Further Tips**
+5. 나가며 **Further Tips**
     - 유용한 소스들 ***Useful open sources***
         
         [Welcome | R for Data Science](https://r4ds.had.co.nz/index.html)
