@@ -70,7 +70,7 @@ Contributors: Do Won Kim, Hyowon Kim
         
     - **4-2. `Tidyverse - ggplot2`**
         
-        [**`Tidyverse - ggplot2`**](Introduction%20to%20R/Tidyverse%20.md)
+        [**`Tidyverse - ggplot2`**](Introduction%20to%20R/Tidyverse%20-%20ggplot2.md)
         
 
 ---
