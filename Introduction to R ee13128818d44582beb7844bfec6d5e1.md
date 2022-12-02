@@ -19,7 +19,7 @@ Contributors: Do Won Kim, Hyowon Kim
         
     - **1-3. Creating a Workspace**
         
-        [작업 공간(workspace) 만들기](Introduction%20to%20R%20ee13128818d44582beb7844bfec6d5e1/%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%8B%E1%85%A5%E1%86%B8%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%80%E1%85%A1%E1%86%AB(workspace)%20%E1%84%86%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B3%E1%86%AF%E1%84%80%E1%85%B5%20.md)
+        [작업 공간(workspace) 만들기](Introduction%20to%20R%20ee13128818d44582beb7844bfec6d5e1/%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%8B%E1%85%A5%E1%86%B8%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%80%E1%85%A1%E1%86%AB(workspace)%20%E1%84%86%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B3%E1%86%AF%E1%84%80%E1%85%B5%203658928eac0f441c8faf4bdada2971dd.md)
         
 
 ---
