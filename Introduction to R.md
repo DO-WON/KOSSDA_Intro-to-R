@@ -76,7 +76,7 @@ Contributors: Do Won Kim, Hyowon Kim
 ---
 
 5. 나가며 **Further Tips**
-    - 유용한 소스들 ***Useful open sources***
+    - 유용한 소스 ***Useful open sources***
         
         [Welcome | R for Data Science](https://r4ds.had.co.nz/index.html)
         
