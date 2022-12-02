@@ -7,7 +7,7 @@ Base 함수들 중 자주 쓰는 것들은 다음과 같습니다: `plot()`, `hi
 plot(gapminder)
 ```
 
-![Untitled](R 기본 그래프/Untitled.png)
+![Untitled](R%20기본%20그래프/Untitled.png)
 
 예) 기대수명이 증가할수록 인구는 어떻게 변화할까요? x축은 lifeExp, y축은 pop의 값들을 산점도로 그려 표현한 것이 바로 5행 4열에 있는 그래프입니다. 패턴을 보니 lifeExp 변수와 pop 변수 간 양의 상관관계가 있습니다. 즉 기대수명이 높아질수록 인구는 증가하는 추세를 보입니다. 
 
