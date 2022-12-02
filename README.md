@@ -12,8 +12,7 @@ Bookdown tutorial will be soon available!
 
 
 # Contributors
-- kenrose05@snu.ac.kr | [Do Won KIM](https://www.dowon.kim/)
-- eclair@snu.ac.kr | [Hyowon KIM](https://thinker-kim.github.io/)
+
 <!-- readme: contributors -start -->
 <table>
 <tr>
