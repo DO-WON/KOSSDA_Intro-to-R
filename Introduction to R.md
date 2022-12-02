@@ -66,11 +66,11 @@ Contributors: Do Won Kim, Hyowon Kim
     
     - **4-1.  R base plot**
         
-        [R 기본 그래프](Introduction to R/R 기본 그래프.md)
+        [R 기본 그래프](Introduction%20to%20R/R%20기본%20그래프.md)
         
     - **4-2. `Tidyverse - ggplot2`**
         
-        [`**Tidyverse - ggplot2**`](Introduction to R/Tidyverse -119acb59.md)
+        [**`Tidyverse - ggplot2`**](Introduction%20to%20R/Tidyverse%20-119acb59.md)
         
 
 ---
