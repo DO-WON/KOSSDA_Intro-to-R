@@ -54,7 +54,7 @@ barplot(table(gapminder$continent),
 
 ![Untitled](R 기본 그래프/Untitled 3.png)
 
-마지막으로 범주형 변수 별로 연속형 변수의 분포를 살펴보기에 좋은 `boxplot()` 입니다. 각 대륙 별로 기대수명의 분포를 시각화해봅시다. 
+마지막으로 범주형 변수 별로 연속형 변수의 분포를 살펴보기에 좋은 `boxplot()` 입니다. 각 대륙 별로 기대수명 분포를 시각화해봅시다. 
 
 ```r
 boxplot(lifeExp ~ continent , data = gapminder) 
