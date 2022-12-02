@@ -8,4 +8,5 @@
 
 
 
-contact: kenrose05@snu.ac.kr (Do Won KIM), eclair@snu.ac.kr (Hyowon KIM) 
+<!-- readme: contributors -start -->
+<!-- readme: contributors -end -->
