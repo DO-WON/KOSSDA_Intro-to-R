@@ -3,7 +3,7 @@
 코스다 수강생들을 위한 R 기초 강좌 튜토리얼입니다. 
 
 - 👉 [**시작하기 | Get Started**](https://github.com/DO-WON/KOSSDA_Intro-to-R/blob/main/Introduction%20to%20R.md)
-- 💡 [**튜토리얼 | Bookdown Version**](https://do-won.github.io/KOSSDA_R_INTRO/)
+- 💡 [**튜토리얼 | Bookdown Version**](https://do-won.github.io/bookdown-demo/)
 - 📚 [**노션 버전 | Notion Version**](https://stellar-weaver-46d.notion.site/Introduction-to-R-ee13128818d44582beb7844bfec6d5e1)
 
 
